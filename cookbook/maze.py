@@ -4,7 +4,7 @@ Free-roam survival game demonstrating mutable Application state via tools.
 ```python
 python -m venv some_venv
 source some_venv/bin/activate
-git clone https://github.com/prefecthq/marvin.git
+git clone https://github.com/khulnasoft-lab/marvin.git
 cd marvin
 pip install -e .
 python cookbook/maze.py

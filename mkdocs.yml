@@ -2,7 +2,7 @@ site_name: Marvin
 site_description: 'The AI Engineering Toolkit'
 site_url: https://askmarvin.ai
 docs_dir: docs
-repo_url: https://github.com/prefecthq/marvin
+repo_url: https://github.com/khulnasoft-lab/marvin
 
 nav:
   - Docs:
@@ -186,13 +186,13 @@ extra:
     description: 'Marvin is a lightweight toolkit for building natural language interfaces that are reliable, scalable, and easy to trust.'
   announcement:
     title: "Marvin 2.0 is here!"
-    url: https://github.com/PrefectHQ/marvin/releases/tag/v2.0.0
+    url: https://github.com/khulnasoft-lab/marvin/releases/tag/v2.0.0
   analytics:
     provider: google
     property: G-2MWKMDJ9CM
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/prefecthq/marvin
+      link: https://github.com/khulnasoft-lab/marvin
     - icon: fontawesome/brands/discord
       link: https://discord.gg/Kgw4HpcuYG
     - icon: fontawesome/brands/twitter

@@ -4,7 +4,7 @@ it doesn't take much to run the slackbot locally
 from a fresh environment you can do:
 ```console
 # install marvin and slackbot dependencies
-pip install git+https://github.com/PrefectHQ/marvin.git fastapi cachetools
+pip install git+https://github.com/khulnasoft-lab/marvin.git fastapi cachetools
 
 # set necessary env vars
 cat ~/.marvin/.env
@@ -37,7 +37,7 @@ python cookbook/slackbot/start.py # in another terminal
 
 #### test it out
 
-<img width="719" alt="image" src="https://github.com/PrefectHQ/marvin/assets/31014960/a5948f7f-9aeb-4df0-b536-d61bb57dd1ab">
+<img width="719" alt="image" src="https://github.com/khulnasoft-lab/marvin/assets/31014960/a5948f7f-9aeb-4df0-b536-d61bb57dd1ab">
 
 to deploy this to cloudrun, see:
 - [Dockerfile.slackbot](/cookbook/slackbot/Dockerfile.slackbot)

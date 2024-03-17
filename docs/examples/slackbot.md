@@ -158,4 +158,4 @@ CMD ["python", "cookbook/slackbot/start.py"]
 Note that we're installing the `slackbot` extras here, which are required for tools used by the worker bot defined in this example's `cookbook/slackbot/start.py` file.
 
 ## Find the whole example here
-- [cookbook/slackbot/start.py](https://github.com/PrefectHQ/marvin/blob/main/cookbook/slackbot/start.py)
+- [cookbook/slackbot/start.py](https://github.com/khulnasoft-lab/marvin/blob/main/cookbook/slackbot/start.py)

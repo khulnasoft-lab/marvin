@@ -7,9 +7,9 @@ push: null
 
 pull:
 - prefect.deployments.steps.git_clone:
-    repository: https://github.com/PrefectHQ/marvin.git
+    repository: https://github.com/khulnasoft-lab/marvin.git
 - prefect.deployments.steps.run_shell_script:
-    script: pip install git+https://github.com/PrefectHQ/marvin.git prefect-gcp
+    script: pip install git+https://github.com/khulnasoft-lab/marvin.git prefect-gcp
 
 deployments:
 - name: github-repo-digest

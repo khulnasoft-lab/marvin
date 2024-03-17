@@ -9,9 +9,9 @@ If you want to view documentation of previous versions of Marvin, here's a step 
 - `pip`
 
 ## Automated Script for Legacy Documentation
-To build and view the docs for a specific version of Marvin, you can use [this script](https://github.com/PrefectHQ/marvin/blob/main/scripts/serve_legacy_docs).
+To build and view the docs for a specific version of Marvin, you can use [this script](https://github.com/khulnasoft-lab/marvin/blob/main/scripts/serve_legacy_docs).
 
-You can either clone the [Marvin repo](https://github.com/PrefectHQ/marvin.git) and run the script locally, or copy the script and run it directly in your terminal after making it executable:
+You can either clone the [Marvin repo](https://github.com/khulnasoft-lab/marvin.git) and run the script locally, or copy the script and run it directly in your terminal after making it executable:
 ```bash
 # unix
 chmod +x scripts/serve_legacy_docs
@@ -30,7 +30,7 @@ If you prefer to manually perform the steps or need to tailor them for your spec
 1. **Clone the Repository**  
    Clone the Marvin repository using Git:
    ```bash
-   git clone https://github.com/PrefectHQ/marvin.git
+   git clone https://github.com/khulnasoft-lab/marvin.git
    cd marvin
    ```
 

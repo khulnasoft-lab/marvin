@@ -73,7 +73,7 @@ video = [
 slackbot = ["marvin[prefect]", "numpy", "marvin[chromadb]"]
 
 [project.urls]
-Code = "https://github.com/prefecthq/marvin"
+Code = "https://github.com/khulnasoft-lab/marvin"
 Documentation = "https://www.askmarvin.ai"
 
 [project.scripts]

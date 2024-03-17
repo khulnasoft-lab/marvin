@@ -40,7 +40,7 @@ else
     exit 1
 fi
 
-REPO_URL="https://github.com/PrefectHQ/marvin.git"
+REPO_URL="https://github.com/khulnasoft-lab/marvin.git"
 TAG="${1:-v1.5.6}"
 
 if [[ "$OSTYPE" == "darwin"* ]]; then

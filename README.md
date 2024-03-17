@@ -277,6 +277,6 @@ ai_audio.play()
 
 💡 **Feature idea?** share it in the `#development` channel in [our Discord](https://discord.com/invite/Kgw4HpcuYG).
 
-🐛 **Found a bug?** feel free to [open an issue](https://github.com/PrefectHQ/marvin/issues/new/choose).
+🐛 **Found a bug?** feel free to [open an issue](https://github.com/khulnasoft-lab/marvin/issues/new/choose).
 
-👷 **Feedback?** Marvin is under active development, and we'd love to [hear it](https://github.com/PrefectHQ/marvin/discussions).
+👷 **Feedback?** Marvin is under active development, and we'd love to [hear it](https://github.com/khulnasoft-lab/marvin/discussions).
